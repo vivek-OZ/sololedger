@@ -1,4 +1,3 @@
----
 name: "🚀 Feature Request"
 about: Suggest a new feature or improvement
 title: "[Feature]: "
@@ -35,4 +34,3 @@ body:
       placeholder: Screenshots, examples, references...
     validations:
       required: false
----
