@@ -1,5 +1,5 @@
 name: "🐞 Bug Report"
-description: Report a bug or issue with the app
+about: Report a bug or issue with the app
 title: "[Bug]: "
 labels: ["bug"]
 body:
